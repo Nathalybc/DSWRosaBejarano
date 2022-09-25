@@ -1,0 +1,23 @@
+<html>
+	<html lang="en">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Document</title>
+	</head>
+	<body>
+	    <h1> Proyecto de sitio Web 2022 – 16-04 </h1>
+	<h3> Nombre: Rosa Nathaly Bejarano Carrion </h3>
+	<h3> Programa: Ingeniería de Sistemas </h3>
+	<h3> Fecha de creación: Septiembre 25 de 2022 </h3>
+	<p> 
+	    Email: nathalybc2006@hotmail.com <br>
+	    Telefono:3192125371 <br>
+	
+	</p>
+	
+
+	<a href="fase 2/design.html">Fase 2</a>
+	</body>
+	</html>
